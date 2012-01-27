@@ -23,3 +23,10 @@ Additional Coding Conventions and Information
 ---------------------------------------------
 TBD
 
+Projects following these conventions
+------------------------------------
+
+* TODO
+
+If your JBoss project follows these conventions,
+[fork and edit this file](https://github.com/jboss/ide-config/edit/master/README.md) and add your project.
