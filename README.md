@@ -21,11 +21,15 @@ IDE Agnostic Conventions
 
 Additional Coding Conventions and Information
 ---------------------------------------------
-TBD
+
+* TODO
 
 Projects following these conventions
 ------------------------------------
 
+* [JBoss-AS](https://github.com/jbossas)
+* [AeroGear](https://github.com/aerogear)
+* [RichFaces](https://github.com/richfaces)
 * TODO
 
 If your JBoss project follows these conventions,
