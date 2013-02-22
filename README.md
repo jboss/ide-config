@@ -30,6 +30,7 @@ Projects following these conventions
 * [JBoss-AS](https://github.com/jbossas)
 * [AeroGear](https://github.com/aerogear)
 * [RichFaces](https://github.com/richfaces)
+* [JDF](http://https://github.com/jboss-jdf)
 * TODO
 
 If your JBoss project follows these conventions,
