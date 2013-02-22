@@ -64,7 +64,7 @@ Will create proper JBoss copyright headers for new JavaScript files.
 1. Download the jboss-js-templates.xml file in this directory.
 2. In Eclipse preferences for to JavaScript -> Code Style -> Code Templates
 3. Click Import
-4. Select the clean-up file you downloaded in step (1)
+4. Select the formatting file you downloaded in step (1)
 
 General Text Editor Formatting
 ------------------------------
@@ -87,6 +87,15 @@ XML formatting
  * Insert whitespace before closing empty eng-tags: YES
  * Indent using spaces
  * Indentation size: 4
+ 
+XML Templates
+-------------
+Will create proper JBoss copyright headers for new XML files.
+
+1. Download the jboss-xml-templates.xml file in this directory.
+2. In Eclipse preferences for to XML -> XML Files -> Editor -> Templates
+3. Click Import
+4. Select the formatting you downloaded in step (1)
 
 HTML formatting
 ---------------
