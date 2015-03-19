@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="org.eclipse.jsdt.filecomment_context" deleted="false" description="Comment for created JavaScript files" enabled="true" id="org.eclipse.wst.jsdt.ui.text.codetemplates.filecomment" name="filecomment">/*
  * JBoss, Home of Professional Open Source
- * Copyright 2014, Red Hat, Inc. and/or its affiliates, and individual
+ * Copyright 2015, Red Hat, Inc. and/or its affiliates, and individual
  * contributors by the @authors tag. See the copyright.txt in the 
  * distribution for a full listing of individual contributors.
  *
