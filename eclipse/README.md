@@ -88,6 +88,8 @@ XML formatting
  * Indent using spaces
  * Indentation size: 4
  
+_NOTE: Some versions of Eclipse contain a bug that disables the `Indentation size` field in the preferences. See <http://minibiti.blogspot.com/2014/06/eclipse-luna-bug-in-preferences-for-xml.html> for a workaround._ 
+ 
 XML Templates
 -------------
 Will create proper JBoss copyright headers for new XML files.
@@ -109,6 +111,8 @@ HTML formatting
  * Indentation size: 4
  * Tag names: Lowercase
  * Attribute names: Lowercase
+
+_NOTE: Some versions of Eclipse contain a bug that disables the `Indentation size` field in the preferences. See <http://minibiti.blogspot.com/2014/06/eclipse-luna-bug-in-preferences-for-xml.html> for a workaround. Replace the file name org.eclipse.wst.xml.core.prefs with with org.eclipse.wst.html.core.prefs for this issue._ 
 
 CSS Formatting
 --------------
